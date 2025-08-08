@@ -1,0 +1,28 @@
+{
+  "name": "jamnipurr-gram-panchayat-website",
+  "version": "1.0.0",
+  "description": "Official website for the Gram Panchayat of Jamnipurr, providing information and services to the public.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "Gram Panchayat",
+    "Jamnipurr",
+    "website",
+    "public services"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "react-router-dom": "^5.2.0"
+  },
+  "devDependencies": {},
+  "homepage": "http://yourdomain.com/jamnipurr-gram-panchayat-website"
+}
